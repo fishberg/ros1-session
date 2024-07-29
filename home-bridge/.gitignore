@@ -1,0 +1,5 @@
+*
+!.gitignore
+!.bashrc
+!.profile
+!catkin_ws/src/.gitignore
